@@ -1,5 +1,4 @@
 # assignment5-frontend
-# Assignment 5: JavaScript Basics
 
 **Name:** Aknur Galymzhankyzyz
 **Group:** IT-2501
