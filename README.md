@@ -24,7 +24,7 @@ I created a form with two input fields: Username and Birth Year. I also added a 
 
 ## Task 4. Event Listener
 
-I used `addEventListener()` with the `click` event. When the button is clicked, the program gets the entered values and updates the `userProfile` object.
+I used addEventListener() with the click event. When the button is clicked, the program gets the entered values and updates the userProfile object.
 
 <img width="458" height="306" alt="image" src="https://github.com/user-attachments/assets/f8e3a809-12cc-4e3d-a249-b6f6babe6671" />
 
