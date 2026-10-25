@@ -2,11 +2,11 @@
 # Assignment 5: JavaScript Basics
 
 **Name:** Aknur Galymzhankyzyz
-**Group:** [Your group]
+**Group:** IT-2501
 
 ## Task 1. User Profile Object
 
-I created a `userProfile` object with my name, birth year, developer status, and hobbies. I used different data types: string, number, boolean, and array.
+I created a userProfile object with my name, birth year, developer status, and hobbies. I used different data types: string, number, boolean, and array.
 
 <img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/6c0c5c34-c35e-44a6-9f82-eafc7107b6ce" />
 
