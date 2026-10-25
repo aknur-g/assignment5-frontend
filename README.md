@@ -31,8 +31,9 @@ I used addEventListener() with the click event. When the button is clicked, the 
 ## Task 5. Creating and Removing Elements
 
 I created a list of hobbies with Add Item and Remove Item buttons. The Add Item button adds a new hobby to the list, and the Remove Item button deletes the last item.
-<img width="500" height="230" alt="image" src="https://github.com/user-attachments/assets/32d0d2ff-25d4-4e8c-a26a-64d8b4cbb712" />
-<img width="497" height="222" alt="image" src="https://github.com/user-attachments/assets/6c197da2-f0ef-4ba7-a9f4-beb8b3bf7b48" />
+
+<img width="480" height="230" alt="image" src="https://github.com/user-attachments/assets/32d0d2ff-25d4-4e8c-a26a-64d8b4cbb712" />
+<img width="480" height="222" alt="image" src="https://github.com/user-attachments/assets/6c197da2-f0ef-4ba7-a9f4-beb8b3bf7b48" />
 
 ## Conclusion
 
